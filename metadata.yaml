@@ -1,6 +1,9 @@
 _repo: The-Mystery-of-Orcival_1651
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le crime d'Orcival. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -13,6 +16,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: Mystery of Orcival -- Little old man of the Batignolles.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1651#The-Mystery-of-Orcival
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
